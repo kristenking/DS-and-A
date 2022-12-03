@@ -27,7 +27,7 @@ const binaryIterativeSearch = (nums, target) => {
     // for the boiler plate we will set the start and end of the search 
     let start = 0;
     let end = nums.length - 1;
-    //let's define the middleIndex here as well
+
     
 
     while (start<end) {
